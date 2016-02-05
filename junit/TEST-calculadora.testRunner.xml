@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite errors="0" failures="0" hostname="argallososa" name="calculadora.testRunner" skipped="0" tests="60" time="0.39" timestamp="2015-11-20T12:50:02">
+  <properties>
+    <property name="java.vendor" value="Oracle Corporation" />
+    <property name="env.USERDOMAIN_ROAMINGPROFILE" value="argallososa" />
+    <property name="env.DEFLOGDIR" value="C:\ProgramData\McAfee\DesktopProtection" />
+    <property name="sun.java.launcher" value="SUN_STANDARD" />
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers" />
+    <property name="env.PROMPT" value="$P$G" />
+    <property name="ant.file.type.Calculadora" value="file" />
+    <property name="os.name" value="Windows 8.1" />
+    <property name="env.FP_NO_HOST_CHECK" value="NO" />
+    <property name="sun.boot.class.path" value="C:\Program Files\Java\jdk1.8.0_65\jre\lib\resources.jar;C:\Program Files\Java\jdk1.8.0_65\jre\lib\rt.jar;C:\Program Files\Java\jdk1.8.0_65\jre\lib\sunrsasign.jar;C:\Program Files\Java\jdk1.8.0_65\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.8.0_65\jre\lib\jce.jar;C:\Program Files\Java\jdk1.8.0_65\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.8.0_65\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.8.0_65\jre\classes" />
+    <property name="env.COMPUTERNAME" value="ARGALLOSOSA" />
+    <property name="env.CommonProgramW6432" value="C:\Program Files\Common Files" />
+    <property name="env.ALLUSERSPROFILE" value="C:\ProgramData" />
+    <property name="sun.desktop" value="windows" />
+    <property name="java.vm.specification.vendor" value="Oracle Corporation" />
+    <property name="ant.home" value="C:\Users\usuario.argallososa\.p2\pool\plugins\org.apache.ant_1.9.4.v201504302020" />
+    <property name="java.runtime.version" value="1.8.0_65-b17" />
+    <property name="env.HOMEPATH" value="\Users\usuario.argallososa" />
+    <property name="env.__COMPAT_LAYER" value="Installer" />
+    <property name="user.name" value="usuario" />
+    <property name="user.language" value="es" />
+    <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk1.8.0_65\jre\bin" />
+    <property name="ant.project.default-target" value="build" />
+    <property name="ant.project.name" value="Calculadora" />
+    <property name="java.version" value="1.8.0_65" />
+    <property name="env.PROCESSOR_IDENTIFIER" value="Intel64 Family 6 Model 60 Stepping 3, GenuineIntel" />
+    <property name="user.timezone" value="" />
+    <property name="env.TEMP" value="C:\Users\USUARI~1.ARG\AppData\Local\Temp" />
+    <property name="sun.arch.data.model" value="64" />
+    <property name="java.endorsed.dirs" value="C:\Program Files\Java\jdk1.8.0_65\jre\lib\endorsed" />
+    <property name="env.VSEDEFLOGDIR" value="C:\ProgramData\McAfee\DesktopProtection" />
+    <property name="sun.cpu.isalist" value="amd64" />
+    <property name="env.HOMEDRIVE" value="C:" />
+    <property name="sun.jnu.encoding" value="Cp1252" />
+    <property name="file.encoding.pkg" value="sun.io" />
+    <property name="file.separator" value="\" />
+    <property name="java.specification.name" value="Java Platform API Specification" />
+    <property name="java.class.version" value="52.0" />
+    <property name="user.country" value="ES" />
+    <property name="java.home" value="C:\Program Files\Java\jdk1.8.0_65\jre" />
+    <property name="env.PSModulePath" value="C:\Windows\system32\WindowsPowerShell\v1.0\Modules\" />
+    <property name="env.APPDATA" value="C:\Users\usuario.argallososa\AppData\Roaming" />
+    <property name="env.PUBLIC" value="C:\Users\Public" />
+    <property name="java.vm.info" value="mixed mode" />
+    <property name="env.ComSpec" value="C:\Windows\system32\cmd.exe" />
+    <property name="env.OS" value="Windows_NT" />
+    <property name="env.CommonProgramFiles" value="C:\Program Files\Common Files" />
+    <property name="ant.file" value="C:\Users\usuario.argallososa\workspace\Calculadora\build.xml" />
+    <property name="os.version" value="6.3" />
+    <property name="env.ProgramW6432" value="C:\Program Files" />
+    <property name="path.separator" value=";" />
+    <property name="java.vm.version" value="25.65-b01" />
+    <property name="env.USERPROFILE" value="C:\Users\usuario.argallososa" />
+    <property name="user.variant" value="" />
+    <property name="ant.library.dir" value="C:\Users\usuario.argallososa\.p2\pool\plugins\org.apache.ant_1.9.4.v201504302020\lib" />
+    <property name="junit.output.dir" value="junit" />
+    <property name="env.JAVA_HOME" value="C:\Program Files\Java\jdk1.8.0_65\" />
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob" />
+    <property name="env.TMP" value="C:\Users\USUARI~1.ARG\AppData\Local\Temp" />
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle" />
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit" />
+    <property name="user.script" value="" />
+    <property name="user.home" value="C:\Users\usuario.argallososa" />
+    <property name="target" value="1.5" />
+    <property name="env.ProgramData" value="C:\ProgramData" />
+    <property name="env.ProgramFiles(x86)" value="C:\Program Files (x86)" />
+    <property name="java.specification.vendor" value="Oracle Corporation" />
+    <property name="env.M2_HOME" value="C:\apache-maven-3.3.3" />
+    <property name="env.NUMBER_OF_PROCESSORS" value="4" />
+    <property name="java.library.path" value="C:\Program Files\Java\jdk1.8.0_65\jre\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:/Program Files/Java/jre1.8.0_65/bin/server;C:/Program Files/Java/jre1.8.0_65/bin;C:/Program Files/Java/jre1.8.0_65/lib/amd64;C:\ProgramData\Oracle\Java\javapath;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\TortoiseSVN\bin;C:\apache-maven-3.3.3\bin;C:\Users\usuario.argallososa\Desktop\Material curso\Material curso\sonar-runner-2.4\bin;C:\Users\usuario.argallososa\Desktop;;." />
+    <property name="java.vendor.url" value="http://java.oracle.com/" />
+    <property name="java.vm.vendor" value="Oracle Corporation" />
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment" />
+    <property name="java.class.path" value="C:\Users\usuario.argallososa\workspace\Calculadora\target\classes;C:\Users\usuario.argallososa\workspace\Calculadora\target\test-classes;C:\Users\usuario.argallososa\.m2\repository\junit\junit\4.12\junit-4.12.jar;C:\Users\usuario.argallososa\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;C:\Users\usuario.argallososa\.m2\repository\info\cukes\cucumber-java\1.2.2\cucumber-java-1.2.2.jar;C:\Users\usuario.argallososa\.m2\repository\info\cukes\cucumber-core\1.2.2\cucumber-core-1.2.2.jar;C:\Users\usuario.argallososa\.m2\repository\info\cukes\cucumber-html\0.2.3\cucumber-html-0.2.3.jar;C:\Users\usuario.argallososa\.m2\repository\info\cukes\cucumber-jvm-deps\1.0.3\cucumber-jvm-deps-1.0.3.jar;C:\Users\usuario.argallososa\.m2\repository\info\cukes\gherkin\2.12.2\gherkin-2.12.2.jar;C:\Users\usuario.argallososa\.m2\repository\info\cukes\cucumber-junit\1.2.2\cucumber-junit-1.2.2.jar;C:\Users\usuario.argallososa\.p2\pool\plugins\org.junit_4.12.0.v201504281640\junit.jar;C:\Users\usuario.argallososa\.p2\pool\plugins\org.apache.ant_1.9.4.v201504302020\lib\ant-launcher.jar;C:\Users\usuario.argallososa\.p2\pool\plugins\org.apache.ant_1.9.4.v201504302020\lib\ant.jar;C:\Users\usuario.argallososa\.p2\pool\plugins\org.apache.ant_1.9.4.v201504302020\lib\ant-junit.jar;C:\Users\usuario.argallososa\.p2\pool\plugins\org.apache.ant_1.9.4.v201504302020\lib\ant-junit4.jar" />
+    <property name="ant.version" value="Apache Ant(TM) version 1.9.4 compiled on April 29 2014" />
+    <property name="sun.java.command" value="org.apache.tools.ant.taskdefs.optional.junit.JUnitTestRunner calculadora.testRunner skipNonTests=false filtertrace=true haltOnError=false haltOnFailure=false formatter=org.apache.tools.ant.taskdefs.optional.junit.OutErrSummaryJUnitResultFormatter showoutput=false outputtoformatters=true logfailedtests=true threadid=0 logtestlistenerevents=false formatter=org.apache.tools.ant.taskdefs.optional.junit.XMLJUnitResultFormatter,C:\Users\usuario.argallososa\workspace\Calculadora\junit\TEST-calculadora.testRunner.xml crashfile=C:\Users\usuario.argallososa\workspace\Calculadora\junitvmwatcher4026199179530700115.properties propsfile=C:\Users\usuario.argallososa\workspace\Calculadora\junit2520319642665059720.properties" />
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification" />
+    <property name="env.LOGONSERVER" value="\\ARGALLOSOSA" />
+    <property name="env.windir" value="C:\Windows" />
+    <property name="env.PROCESSOR_ARCHITECTURE" value="AMD64" />
+    <property name="java.vm.specification.version" value="1.8" />
+    <property name="sun.cpu.endian" value="little" />
+    <property name="sun.os.patch.level" value="" />
+    <property name="debuglevel" value="source,lines,vars" />
+    <property name="env.ProgramFiles" value="C:\Program Files" />
+    <property name="env.ANT_HOME" value="C:\Users\usuario.argallososa\.p2\pool\plugins\org.apache.ant_1.9.4.v201504302020" />
+    <property name="env.PROCESSOR_REVISION" value="3c03" />
+    <property name="java.io.tmpdir" value="C:\Users\USUARI~1.ARG\AppData\Local\Temp\" />
+    <property name="env.CommonProgramFiles(x86)" value="C:\Program Files (x86)\Common Files" />
+    <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/" />
+    <property name="env.SystemRoot" value="C:\Windows" />
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment" />
+    <property name="os.arch" value="amd64" />
+    <property name="java.ext.dirs" value="C:\Program Files\Java\jdk1.8.0_65\jre\lib\ext;C:\Windows\Sun\Java\lib\ext" />
+    <property name="user.dir" value="C:\Users\usuario.argallososa\workspace\Calculadora" />
+    <property name="env.LOCALAPPDATA" value="C:\Users\usuario.argallososa\AppData\Local" />
+    <property name="line.separator" value="&#xd;&#xa;" />
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM" />
+    <property name="env.PATHEXT" value=".COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC" />
+    <property name="org.apache.tools.ant.taskdefs.optional.junit.AggregateTransformer0" value="C:\Users\USUARI~1.ARG\AppData\Local\Temp\null371256367" />
+    <property name="env.Path" value="C:/Program Files/Java/jre1.8.0_65/bin/server;C:/Program Files/Java/jre1.8.0_65/bin;C:/Program Files/Java/jre1.8.0_65/lib/amd64;C:\ProgramData\Oracle\Java\javapath;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\TortoiseSVN\bin;C:\apache-maven-3.3.3\bin;C:\Users\usuario.argallososa\Desktop\Material curso\Material curso\sonar-runner-2.4\bin;C:\Users\usuario.argallososa\Desktop;" />
+    <property name="basedir" value="C:\Users\usuario.argallososa\workspace\Calculadora" />
+    <property name="ant.java.version" value="1.8" />
+    <property name="ant.core.lib" value="C:\Users\usuario.argallososa\.p2\pool\plugins\org.apache.ant_1.9.4.v201504302020\lib\ant.jar" />
+    <property name="env.M2" value="C:\apache-maven-3.3.3\bin" />
+    <property name="env.USERNAME" value="usuario" />
+    <property name="source" value="1.5" />
+    <property name="env.SystemDrive" value="C:" />
+    <property name="file.encoding" value="Cp1252" />
+    <property name="env.USERDOMAIN" value="argallososa" />
+    <property name="ant.file.Calculadora" value="C:\Users\usuario.argallososa\workspace\Calculadora\build.xml" />
+    <property name="java.specification.version" value="1.8" />
+    <property name="ant.project.invoked-targets" value="build,junitreport,testRunner" />
+    <property name="env.PROCESSOR_LEVEL" value="6" />
+  </properties>
+  <testcase classname="Scenario: Suma uno" name="Given los parametros &apos;7&apos;, y &apos;14&apos;" time="0.0" />
+  <testcase classname="Scenario: Suma uno" name="When el operador sea &apos;sumar&apos;" time="0.0" />
+  <testcase classname="Scenario: Suma uno" name="Then solucion &apos;21&apos;" time="0.0" />
+  <testcase classname="junit.framework.TestSuite" name="Scenario: Suma uno" time="0.125" />
+  <testcase classname="Scenario: Suma dos" name="Given los parametros &apos;9&apos;, y &apos;3&apos;" time="0.0" />
+  <testcase classname="Scenario: Suma dos" name="When el operador sea &apos;sumar&apos;" time="0.0" />
+  <testcase classname="Scenario: Suma dos" name="Then solucion &apos;12&apos;" time="0.0" />
+  <testcase classname="junit.framework.TestSuite" name="Scenario: Suma dos" time="0.016" />
+  <testcase classname="Scenario: Resta uno" name="Given los parametros &apos;7&apos;, y &apos;14&apos;" time="0.0" />
+  <testcase classname="Scenario: Resta uno" name="When el operador sea &apos;restar&apos;" time="0.0" />
+  <testcase classname="Scenario: Resta uno" name="Then solucion &apos;-7&apos;" time="0.0" />
+  <testcase classname="junit.framework.TestSuite" name="Scenario: Resta uno" time="0.015" />
+  <testcase classname="Scenario: Resta dos" name="Given los parametros &apos;9&apos;, y &apos;3&apos;" time="0.0" />
+  <testcase classname="Scenario: Resta dos" name="When el operador sea &apos;restar&apos;" time="0.0" />
+  <testcase classname="Scenario: Resta dos" name="Then solucion &apos;6&apos;" time="0.0" />
+  <testcase classname="junit.framework.TestSuite" name="Scenario: Resta dos" time="0.016" />
+  <testcase classname="Scenario: Multiplicacion" name="Given los parametros &apos;9&apos;, y &apos;3&apos;" time="0.0" />
+  <testcase classname="Scenario: Multiplicacion" name="When el operador sea &apos;multiplicar&apos;" time="0.0" />
+  <testcase classname="Scenario: Multiplicacion" name="Then solucion &apos;27&apos;" time="0.016" />
+  <testcase classname="junit.framework.TestSuite" name="Scenario: Multiplicacion" time="0.016" />
+  <testcase classname="Scenario: Division" name="Given los parametros &apos;9&apos;, y &apos;3&apos;" time="0.0" />
+  <testcase classname="Scenario: Division" name="When el operador sea &apos;dividir&apos;" time="0.0" />
+  <testcase classname="Scenario: Division" name="Then solucion &apos;3&apos;" time="0.0" />
+  <testcase classname="junit.framework.TestSuite" name="Scenario: Division" time="0.0" />
+  <testcase classname="| 12 | 5 | &quot;sumar&quot; | 17 |" name="Given parametros 12 y 5" time="0.0" />
+  <testcase classname="| 12 | 5 | &quot;sumar&quot; | 17 |" name="When el operador es &quot;sumar&quot;" time="0.0" />
+  <testcase classname="| 12 | 5 | &quot;sumar&quot; | 17 |" name="Then el resultado deberia ser 17" time="0.0" />
+  <testcase classname="junit.framework.TestSuite" name="| 12 | 5 | &quot;sumar&quot; | 17 |" time="0.015" />
+  <testcase classname="| 20 | 5 | &quot;restar&quot; | 15 |" name="Given parametros 20 y 5" time="0.0" />
+  <testcase classname="| 20 | 5 | &quot;restar&quot; | 15 |" name="When el operador es &quot;restar&quot;" time="0.0" />
+  <testcase classname="| 20 | 5 | &quot;restar&quot; | 15 |" name="Then el resultado deberia ser 15" time="0.0" />
+  <testcase classname="junit.framework.TestSuite" name="| 20 | 5 | &quot;restar&quot; | 15 |" time="0.0" />
+  <testcase classname="| 35 | 7 | &quot;dividir&quot; | 5 |" name="Given parametros 35 y 7" time="0.0" />
+  <testcase classname="| 35 | 7 | &quot;dividir&quot; | 5 |" name="When el operador es &quot;dividir&quot;" time="0.0" />
+  <testcase classname="| 35 | 7 | &quot;dividir&quot; | 5 |" name="Then el resultado deberia ser 5" time="0.0" />
+  <testcase classname="junit.framework.TestSuite" name="| 35 | 7 | &quot;dividir&quot; | 5 |" time="0.016" />
+  <testcase classname="| 4 | 2 | &quot;multiplicar&quot; | 8 |" name="Given parametros 4 y 2" time="0.0" />
+  <testcase classname="| 4 | 2 | &quot;multiplicar&quot; | 8 |" name="When el operador es &quot;multiplicar&quot;" time="0.0" />
+  <testcase classname="| 4 | 2 | &quot;multiplicar&quot; | 8 |" name="Then el resultado deberia ser 8" time="0.0" />
+  <testcase classname="junit.framework.TestSuite" name="| 4 | 2 | &quot;multiplicar&quot; | 8 |" time="0.0" />
+  <system-out><![CDATA[@Run
+Feature: calculadora
+  Este escenario comprobar? el comportamiento de una calculadora al pasarle algunos par?metros
+
+  Scenario: Suma uno                 # calculadora/calculadora.feature:5
+    Given los parametros '7', y '14' # claseCambio.mandarParametros(float,float)
+    When el operador sea 'sumar'     # claseCambio.hacerOperacion(String)
+    Then solucion '21'               # claseCambio.Soluciones(float)
+
+  Scenario: Suma dos                # calculadora/calculadora.feature:10
+    Given los parametros '9', y '3' # claseCambio.mandarParametros(float,float)
+    When el operador sea 'sumar'    # claseCambio.hacerOperacion(String)
+    Then solucion '12'              # claseCambio.Soluciones(float)
+
+  Scenario: Resta uno                # calculadora/calculadora.feature:15
+    Given los parametros '7', y '14' # claseCambio.mandarParametros(float,float)
+    When el operador sea 'restar'    # claseCambio.hacerOperacion(String)
+    Then solucion '-7'               # claseCambio.Soluciones(float)
+
+  Scenario: Resta dos               # calculadora/calculadora.feature:20
+    Given los parametros '9', y '3' # claseCambio.mandarParametros(float,float)
+    When el operador sea 'restar'   # claseCambio.hacerOperacion(String)
+    Then solucion '6'               # claseCambio.Soluciones(float)
+
+  Scenario: Multiplicacion             # calculadora/calculadora.feature:25
+    Given los parametros '9', y '3'    # claseCambio.mandarParametros(float,float)
+    When el operador sea 'multiplicar' # claseCambio.hacerOperacion(String)
+    Then solucion '27'                 # claseCambio.Soluciones(float)
+
+  Scenario: Division                # calculadora/calculadora.feature:30
+    Given los parametros '9', y '3' # claseCambio.mandarParametros(float,float)
+    When el operador sea 'dividir'  # claseCambio.hacerOperacion(String)
+    Then solucion '3'               # claseCambio.Soluciones(float)
+
+  Scenario Outline: tablas                    # calculadora/calculadora.feature:36
+    Given parametros <uno> y <dos>
+    When el operador es <operando>
+    Then el resultado deberia ser <resultado>
+
+    Examples: 
+
+  @Run
+  Scenario Outline: tablas           # calculadora/calculadora.feature:43
+    Given parametros 12 y 5          # claseCambio.mandarParametrosTabla(float,float)
+    When el operador es "sumar"      # claseCambio.hacerOperacionTabla(String)
+    Then el resultado deberia ser 17 # claseCambio.SolucionesTabla(float)
+
+  @Run
+  Scenario Outline: tablas           # calculadora/calculadora.feature:44
+    Given parametros 20 y 5          # claseCambio.mandarParametrosTabla(float,float)
+    When el operador es "restar"     # claseCambio.hacerOperacionTabla(String)
+    Then el resultado deberia ser 15 # claseCambio.SolucionesTabla(float)
+
+  @Run
+  Scenario Outline: tablas          # calculadora/calculadora.feature:45
+    Given parametros 35 y 7         # claseCambio.mandarParametrosTabla(float,float)
+    When el operador es "dividir"   # claseCambio.hacerOperacionTabla(String)
+    Then el resultado deberia ser 5 # claseCambio.SolucionesTabla(float)
+
+  @Run
+  Scenario Outline: tablas            # calculadora/calculadora.feature:46
+    Given parametros 4 y 2            # claseCambio.mandarParametrosTabla(float,float)
+    When el operador es "multiplicar" # claseCambio.hacerOperacionTabla(String)
+    Then el resultado deberia ser 8   # claseCambio.SolucionesTabla(float)
+
+10 Scenarios (10 passed)
+30 Steps (30 passed)
+0m0,125s
+
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

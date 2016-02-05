@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite tests="60" failures="0" name="calculadora.RunnerTest" time="0.025" errors="0" skipped="0">
+  <properties>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="JOB_NAME" value="Calculadora"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="NUMBER_OF_PROCESSORS" value="4"/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="DEFLOGDIR" value="C:\ProgramData\McAfee\DesktopProtection"/>
+    <property name="JENKINS_HOME" value="C:\Users\usuario.argallososa\.jenkins"/>
+    <property name="HUDSON_SERVER_COOKIE" value="14dea1d2f42921b4"/>
+    <property name="POM_ARTIFACTID" value="Calculadora"/>
+    <property name="os.name" value="Windows 8.1"/>
+    <property name="sun.boot.class.path" value="C:\Program Files\Java\jdk1.8.0_65\jre\lib\resources.jar;C:\Program Files\Java\jdk1.8.0_65\jre\lib\rt.jar;C:\Program Files\Java\jdk1.8.0_65\jre\lib\sunrsasign.jar;C:\Program Files\Java\jdk1.8.0_65\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.8.0_65\jre\lib\jce.jar;C:\Program Files\Java\jdk1.8.0_65\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.8.0_65\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.8.0_65\jre\classes"/>
+    <property name="EXECUTOR_NUMBER" value="1"/>
+    <property name="sun.desktop" value="windows"/>
+    <property name="PATHEXT" value=".COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="POM_DISPLAYNAME" value="Calculadora"/>
+    <property name="NODE_LABELS" value="master"/>
+    <property name="TEMP" value="C:\Users\USUARI~1.ARG\AppData\Local\Temp"/>
+    <property name="java.runtime.version" value="1.8.0_65-b17"/>
+    <property name="user.name" value="usuario"/>
+    <property name="guice.disable.misplaced.annotation.check" value="true"/>
+    <property name="CommonProgramW6432" value="C:\Program Files\Common Files"/>
+    <property name="ProgramFiles" value="C:\Program Files"/>
+    <property name="PROMPT" value="$P$G"/>
+    <property name="user.language" value="es"/>
+    <property name="M2" value="C:\apache-maven-3.3.3\bin"/>
+    <property name="BUILD_DISPLAY_NAME" value="#9"/>
+    <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk1.8.0_65\jre\bin"/>
+    <property name="LOCALAPPDATA" value="C:\Users\usuario.argallososa\AppData\Local"/>
+    <property name="java.version" value="1.8.0_65"/>
+    <property name="PROCESSOR_LEVEL" value="6"/>
+    <property name="user.timezone" value="Europe/Paris"/>
+    <property name="USERNAME" value="usuario"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="NODE_NAME" value="master"/>
+    <property name="java.endorsed.dirs" value="C:\Program Files\Java\jdk1.8.0_65\jre\lib\endorsed"/>
+    <property name="BUILD_ID" value="9"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="file.encoding.pkg" value="sun.io"/>
+    <property name="file.separator" value="\"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="HOMEDRIVE" value="C:"/>
+    <property name="java.class.version" value="52.0"/>
+    <property name="=::" value="::\"/>
+    <property name="org.slf4j.simpleLogger.defaultLogLevel" value="info"/>
+    <property name="user.country" value="ES"/>
+    <property name="ALLUSERSPROFILE" value="C:\ProgramData"/>
+    <property name="java.home" value="C:\Program Files\Java\jdk1.8.0_65\jre"/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="os.version" value="6.3"/>
+    <property name="=ExitCode" value="00000082"/>
+    <property name="POM_VERSION" value="0.0.1-SNAPSHOT"/>
+    <property name="TMP" value="C:\Users\USUARI~1.ARG\AppData\Local\Temp"/>
+    <property name="path.separator" value=";"/>
+    <property name="java.vm.version" value="25.65-b01"/>
+    <property name="user.variant" value=""/>
+    <property name="CommonProgramFiles(x86)" value="C:\Program Files (x86)\Common Files"/>
+    <property name="USERDOMAIN_ROAMINGPROFILE" value="argallososa"/>
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
+    <property name="FP_NO_HOST_CHECK" value="NO"/>
+    <property name="JAVA_HOME" value="C:\Program Files\Java\jdk1.8.0_65\"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="CommonProgramFiles" value="C:\Program Files\Common Files"/>
+    <property name="ComSpec" value="C:\Windows\system32\cmd.exe"/>
+    <property name="HOMEPATH" value="\Users\usuario.argallososa"/>
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
+    <property name="POM_PACKAGING" value="jar"/>
+    <property name="COMPUTERNAME" value="ARGALLOSOSA"/>
+    <property name="user.script" value=""/>
+    <property name="POM_GROUPID" value="com.calculadora"/>
+    <property name="user.home" value="C:\Users\usuario.argallososa"/>
+    <property name="PUBLIC" value="C:\Users\Public"/>
+    <property name="BUILD_TAG" value="jenkins-Calculadora-9"/>
+    <property name="JENKINS_SERVER_COOKIE" value="14dea1d2f42921b4"/>
+    <property name="HUDSON_URL" value="http://localhost:8080/"/>
+    <property name="ProgramData" value="C:\ProgramData"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="USERPROFILE" value="C:\Users\usuario.argallososa"/>
+    <property name="CLASSPATH" value=""/>
+    <property name="java.vendor.url" value="http://java.oracle.com/"/>
+    <property name="java.library.path" value="C:\Program Files\Java\jdk1.8.0_65\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\apache-maven-3.3.3/bin;C:\Program Files\Java\jdk1.8.0_65\/bin;C:\Program Files\Java\jdk1.8.0_65\/bin;C:\ProgramData\Oracle\Java\javapath;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\TortoiseSVN\bin;C:\Program Files\nodejs\;C:\Program Files (x86)\Windows Kits\10\Windows Performance Toolkit\;C:\apache-maven-3.3.3\bin;C:\Users\usuario.argallososa\Desktop\Material curso\Material curso\sonar-runner-2.4\bin;C:\Users\usuario.argallososa\AppData\Roaming\npm;."/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="APPDATA" value="C:\Users\usuario.argallososa\AppData\Roaming"/>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="maven.home" value="C:\apache-maven-3.3.3"/>
+    <property name="java.class.path" value="C:\Users\usuario.argallososa\.jenkins\plugins\maven-plugin\WEB-INF\lib\maven31-agent-1.5.jar;C:\apache-maven-3.3.3\boot\plexus-classworlds-2.5.2.jar;C:\apache-maven-3.3.3/conf/logging"/>
+    <property name="sun.java.command" value="jenkins.maven3.agent.Maven31Main C:\apache-maven-3.3.3 C:\Users\usuario.argallososa\.jenkins\war\WEB-INF\lib\remoting-2.53.jar C:\Users\usuario.argallososa\.jenkins\plugins\maven-plugin\WEB-INF\lib\maven31-interceptor-1.5.jar C:\Users\usuario.argallososa\.jenkins\plugins\maven-plugin\WEB-INF\lib\maven3-interceptor-commons-1.5.jar 55307"/>
+    <property name="Path" value="C:\Program Files\Java\jdk1.8.0_65\/bin;C:\ProgramData\Oracle\Java\javapath;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\TortoiseSVN\bin;C:\Program Files\nodejs\;C:\Program Files (x86)\Windows Kits\10\Windows Performance Toolkit\;C:\apache-maven-3.3.3\bin;C:\Users\usuario.argallososa\Desktop\Material curso\Material curso\sonar-runner-2.4\bin;C:\Users\usuario.argallososa\AppData\Roaming\npm"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="PROCESSOR_ARCHITECTURE" value="AMD64"/>
+    <property name="PATH+JDK" value="C:\Program Files\Java\jdk1.8.0_65\/bin"/>
+    <property name="PROCESSOR_IDENTIFIER" value="Intel64 Family 6 Model 60 Stepping 3, GenuineIntel"/>
+    <property name="SESSIONNAME" value="Console"/>
+    <property name="java.vm.specification.version" value="1.8"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="M2_HOME" value="C:\apache-maven-3.3.3"/>
+    <property name="java.io.tmpdir" value="C:\Users\USUARI~1.ARG\AppData\Local\Temp\"/>
+    <property name="OS" value="Windows_NT"/>
+    <property name="HUDSON_HOME" value="C:\Users\usuario.argallososa\.jenkins"/>
+    <property name="PATH+MAVEN" value="C:\apache-maven-3.3.3/bin"/>
+    <property name="ProgramFiles(x86)" value="C:\Program Files (x86)"/>
+    <property name="BUILD_URL" value="http://localhost:8080/job/Calculadora/9/"/>
+    <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="SystemRoot" value="C:\Windows"/>
+    <property name="VSEDEFLOGDIR" value="C:\ProgramData\McAfee\DesktopProtection"/>
+    <property name="java.ext.dirs" value="C:\Program Files\Java\jdk1.8.0_65\jre\lib\ext;C:\Windows\Sun\Java\lib\ext"/>
+    <property name="user.dir" value="C:\Users\usuario.argallososa\workspace\Calculadora"/>
+    <property name="JOB_URL" value="http://localhost:8080/job/Calculadora/"/>
+    <property name="LOGONSERVER" value="\\ARGALLOSOSA"/>
+    <property name="USERDOMAIN" value="argallososa"/>
+    <property name="line.separator" value="
+"/>
+    <property name="MAVEN_HOME" value="C:\apache-maven-3.3.3"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="BUILD_NUMBER" value="9"/>
+    <property name="JENKINS_URL" value="http://localhost:8080/"/>
+    <property name="PROCESSOR_REVISION" value="3c03"/>
+    <property name="ProgramW6432" value="C:\Program Files"/>
+    <property name="windir" value="C:\Windows"/>
+    <property name="=C:" value="C:\Users\usuario.argallososa\Desktop\Jenkins war"/>
+    <property name="file.encoding" value="Cp1252"/>
+    <property name="SystemDrive" value="C:"/>
+    <property name="maven3.interceptor" value="C:\Users\usuario.argallososa\.jenkins\plugins\maven-plugin\WEB-INF\lib\maven31-interceptor-1.5.jar"/>
+    <property name="WORKSPACE" value="C:\Users\usuario.argallososa\.jenkins\jobs\Calculadora\workspace"/>
+    <property name="maven3.interceptor.common" value="C:\Users\usuario.argallososa\.jenkins\plugins\maven-plugin\WEB-INF\lib\maven3-interceptor-commons-1.5.jar"/>
+    <property name="java.specification.version" value="1.8"/>
+    <property name="PSModulePath" value="C:\Windows\system32\WindowsPowerShell\v1.0\Modules\"/>
+  </properties>
+  <testcase classname="Scenario: Suma uno" name="Given los parametros &apos;1&apos;, y &apos;1&apos;" time="0.003"/>
+  <testcase classname="Scenario: Suma uno" name="When el operador sea &apos;sumar&apos;" time="0"/>
+  <testcase classname="Scenario: Suma uno" name="Then solucion &apos;2&apos;" time="0"/>
+  <testcase classname="Scenario: Suma uno" name="Scenario: Suma uno" time="0"/>
+  <testcase classname="| 1 | 5 | &quot;sumar&quot; | 6 |" name="Given parametros 1 y 5" time="0"/>
+  <testcase classname="| 1 | 5 | &quot;sumar&quot; | 6 |" name="When el operador es &quot;sumar&quot;" time="0.002"/>
+  <testcase classname="| 1 | 5 | &quot;sumar&quot; | 6 |" name="Then el resultado deberia ser 6" time="0"/>
+  <testcase classname="| 1 | 5 | &quot;sumar&quot; | 6 |" name="| 1 | 5 | &quot;sumar&quot; | 6 |" time="0.003"/>
+  <testcase classname="| 20 | 13 | &quot;restar&quot; | 7 |" name="Given parametros 20 y 13" time="0"/>
+  <testcase classname="| 20 | 13 | &quot;restar&quot; | 7 |" name="When el operador es &quot;restar&quot;" time="0.001"/>
+  <testcase classname="| 20 | 13 | &quot;restar&quot; | 7 |" name="Then el resultado deberia ser 7" time="0"/>
+  <testcase classname="| 20 | 13 | &quot;restar&quot; | 7 |" name="| 20 | 13 | &quot;restar&quot; | 7 |" time="0"/>
+  <testcase classname="| 35 | 7 | &quot;dividir&quot; | 5 |" name="Given parametros 35 y 7" time="0.001"/>
+  <testcase classname="| 35 | 7 | &quot;dividir&quot; | 5 |" name="When el operador es &quot;dividir&quot;" time="0"/>
+  <testcase classname="| 35 | 7 | &quot;dividir&quot; | 5 |" name="Then el resultado deberia ser 5" time="0"/>
+  <testcase classname="| 35 | 7 | &quot;dividir&quot; | 5 |" name="| 35 | 7 | &quot;dividir&quot; | 5 |" time="0"/>
+  <testcase classname="| 4 | 9 | &quot;multiplicar&quot; | 36 |" name="Given parametros 4 y 9" time="0"/>
+  <testcase classname="| 4 | 9 | &quot;multiplicar&quot; | 36 |" name="When el operador es &quot;multiplicar&quot;" time="0"/>
+  <testcase classname="| 4 | 9 | &quot;multiplicar&quot; | 36 |" name="Then el resultado deberia ser 36" time="0"/>
+  <testcase classname="| 4 | 9 | &quot;multiplicar&quot; | 36 |" name="| 4 | 9 | &quot;multiplicar&quot; | 36 |" time="0.001"/>
+  <testcase classname="Scenario: Suma uno" name="Given los parametros &apos;7&apos;, y &apos;14&apos;" time="0"/>
+  <testcase classname="Scenario: Suma uno" name="When el operador sea &apos;sumar&apos;" time="0"/>
+  <testcase classname="Scenario: Suma uno" name="Then solucion &apos;21&apos;" time="0"/>
+  <testcase classname="Scenario: Suma uno" name="Scenario: Suma uno" time="0.001"/>
+  <testcase classname="Scenario: Suma dos" name="Given los parametros &apos;9&apos;, y &apos;3&apos;" time="0"/>
+  <testcase classname="Scenario: Suma dos" name="When el operador sea &apos;sumar&apos;" time="0"/>
+  <testcase classname="Scenario: Suma dos" name="Then solucion &apos;12&apos;" time="0"/>
+  <testcase classname="Scenario: Suma dos" name="Scenario: Suma dos" time="0.001"/>
+  <testcase classname="Scenario: Resta uno" name="Given los parametros &apos;7&apos;, y &apos;14&apos;" time="0"/>
+  <testcase classname="Scenario: Resta uno" name="When el operador sea &apos;restar&apos;" time="0"/>
+  <testcase classname="Scenario: Resta uno" name="Then solucion &apos;-7&apos;" time="0"/>
+  <testcase classname="Scenario: Resta uno" name="Scenario: Resta uno" time="0.002"/>
+  <testcase classname="Scenario: Resta dos" name="Given los parametros &apos;9&apos;, y &apos;3&apos;" time="0"/>
+  <testcase classname="Scenario: Resta dos" name="When el operador sea &apos;restar&apos;" time="0.002"/>
+  <testcase classname="Scenario: Resta dos" name="Then solucion &apos;6&apos;" time="0.001"/>
+  <testcase classname="Scenario: Resta dos" name="Scenario: Resta dos" time="0.002"/>
+  <testcase classname="Scenario: Multiplicacion" name="Given los parametros &apos;9&apos;, y &apos;3&apos;" time="0"/>
+  <testcase classname="Scenario: Multiplicacion" name="When el operador sea &apos;multiplicar&apos;" time="0"/>
+  <testcase classname="Scenario: Multiplicacion" name="Then solucion &apos;27&apos;" time="0"/>
+  <testcase classname="Scenario: Multiplicacion" name="Scenario: Multiplicacion" time="0.001"/>
+  <testcase classname="Scenario: Division" name="Given los parametros &apos;9&apos;, y &apos;3&apos;" time="0.001"/>
+  <testcase classname="Scenario: Division" name="When el operador sea &apos;dividir&apos;" time="0"/>
+  <testcase classname="Scenario: Division" name="Then solucion &apos;3&apos;" time="0"/>
+  <testcase classname="Scenario: Division" name="Scenario: Division" time="0"/>
+  <testcase classname="| 12 | 5 | &quot;sumar&quot; | 17 |" name="Given parametros 12 y 5" time="0"/>
+  <testcase classname="| 12 | 5 | &quot;sumar&quot; | 17 |" name="When el operador es &quot;sumar&quot;" time="0"/>
+  <testcase classname="| 12 | 5 | &quot;sumar&quot; | 17 |" name="Then el resultado deberia ser 17" time="0"/>
+  <testcase classname="| 12 | 5 | &quot;sumar&quot; | 17 |" name="| 12 | 5 | &quot;sumar&quot; | 17 |" time="0"/>
+  <testcase classname="| 20 | 5 | &quot;restar&quot; | 15 |" name="Given parametros 20 y 5" time="0"/>
+  <testcase classname="| 20 | 5 | &quot;restar&quot; | 15 |" name="When el operador es &quot;restar&quot;" time="0"/>
+  <testcase classname="| 20 | 5 | &quot;restar&quot; | 15 |" name="Then el resultado deberia ser 15" time="0"/>
+  <testcase classname="| 20 | 5 | &quot;restar&quot; | 15 |" name="| 20 | 5 | &quot;restar&quot; | 15 |" time="0"/>
+  <testcase classname="| 35 | 7 | &quot;dividir&quot; | 5 |" name="Given parametros 35 y 7" time="0"/>
+  <testcase classname="| 35 | 7 | &quot;dividir&quot; | 5 |" name="When el operador es &quot;dividir&quot;" time="0.001"/>
+  <testcase classname="| 35 | 7 | &quot;dividir&quot; | 5 |" name="Then el resultado deberia ser 5" time="0"/>
+  <testcase classname="| 35 | 7 | &quot;dividir&quot; | 5 |" name="| 35 | 7 | &quot;dividir&quot; | 5 |" time="0.001"/>
+  <testcase classname="| 4 | 2 | &quot;multiplicar&quot; | 8 |" name="Given parametros 4 y 2" time="0"/>
+  <testcase classname="| 4 | 2 | &quot;multiplicar&quot; | 8 |" name="When el operador es &quot;multiplicar&quot;" time="0"/>
+  <testcase classname="| 4 | 2 | &quot;multiplicar&quot; | 8 |" name="Then el resultado deberia ser 8" time="0"/>
+  <testcase classname="| 4 | 2 | &quot;multiplicar&quot; | 8 |" name="| 4 | 2 | &quot;multiplicar&quot; | 8 |" time="0.001"/>
+</testsuite>

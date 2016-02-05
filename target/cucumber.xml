@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="1" time="0.126644">
+<testcase classname="calculadora escenarios normales" name="Suma" time="0.126644">
+<system-out><![CDATA[Given los parametros '1', y '1'.............................................passed
+When el operador sea 'sumar'................................................passed
+Then solucion '2'...........................................................passed
+]]></system-out>
+</testcase>
+</testsuite>
